@@ -1,4 +1,5 @@
 **AWS-EKS-cluster-for-multiple-customers-Cluster-using-Terraform-Modules**
+![image](https://github.com/Saurabh-DevOpsVoyager77/AWS-EKS-cluster-for-multiple-customers-Cluster-using-Terraform-Modules/assets/147520862/7b0d8a8c-1c60-4027-bce6-6dbf3c9e8e8e)
 
 This guide will walk you through the process of setting up an AWS Elastic Kubernetes Service (EKS) cluster using Terraform. By following these steps, you'll be able to provision an EKS cluster on AWS and configure it for your specific requirements.
 
